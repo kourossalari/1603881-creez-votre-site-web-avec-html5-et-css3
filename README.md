@@ -1,1 +1,35 @@
-Base de code pour le cours HTML CSS
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>À propos - Robbie Lens Photographie</title>
+</head>
+
+<body>
+    <h1>À propos de Robbie Lens</h1>
+    <p>
+        Photographe depuis plus de 5 ans, je réalise des reportages aux photos dynamiques et pertinentes pour vos
+        projets de communication. Créativité, qualité, et sérénité pour vous! Je gère tout, depuis la direction
+        artistique, la réalisation du reportage jusqu’à la livraison de vos photos retouchées, prêtes à l’emploi.
+    </p>
+    <h2>Services</h2>
+    <ul>
+        <li>Portrait seul ou à plusieurs</li>
+        <li>Shooting mode</li>
+        <li>Retouches sur mesure</li>
+        <li>Developpement</li>
+      <p>
+        <a href="https://github.com/OpenClassrooms-Student-Center/1603881
+           -creez-votre-site-web-avec-html5-et-css3/edit/P1C5-exercice/README.md#a-propos.html">À propos</a>
+      </p>
+      <p>
+        <a href="https://twitter.com/"target="_blank">À propos</a>
+      </p>
+      <p>
+        <a href="https://www.instagram.com/"target="_blank">À propos</a>
+      </p>
+    </ul>
+</body>
+
+</html>
